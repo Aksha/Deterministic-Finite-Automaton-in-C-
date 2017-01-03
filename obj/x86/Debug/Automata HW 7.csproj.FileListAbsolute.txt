@@ -1,0 +1,9 @@
+c:\users\osama\documents\visual studio 2010\Projects\Automata HW 7\Automata HW 7\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\osama\documents\visual studio 2010\Projects\Automata HW 7\Automata HW 7\obj\x86\Debug\Automata_HW_7.Form1.resources
+c:\users\osama\documents\visual studio 2010\Projects\Automata HW 7\Automata HW 7\obj\x86\Debug\Automata_HW_7.Properties.Resources.resources
+c:\users\osama\documents\visual studio 2010\Projects\Automata HW 7\Automata HW 7\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\osama\documents\visual studio 2010\Projects\Automata HW 7\Automata HW 7\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\osama\documents\visual studio 2010\Projects\Automata HW 7\Automata HW 7\bin\Debug\Automata HW 7.exe
+c:\users\osama\documents\visual studio 2010\Projects\Automata HW 7\Automata HW 7\bin\Debug\Automata HW 7.pdb
+c:\users\osama\documents\visual studio 2010\Projects\Automata HW 7\Automata HW 7\obj\x86\Debug\Automata HW 7.exe
+c:\users\osama\documents\visual studio 2010\Projects\Automata HW 7\Automata HW 7\obj\x86\Debug\Automata HW 7.pdb
